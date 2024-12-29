@@ -26,7 +26,8 @@ Score Tracking:The user's score is incremented each time they answer a question 
 At the end of the quiz, the total score is shown, providing feedback on how well the user did.
 Input Validation:The game handles invalid inputs (such as non-numeric responses or numbers outside the available options) by providing an error message and prompting the user to enter a valid answer.
 Final Score Display:After all the questions are answered, the game displays the final score, showing the number of correct answers out of the total number of questions.
-![Screenshot (14)](https://github.com/user-attachments/assets/5d948a40-1d87-4d48-83d5-9989ef1e6c57)
+![Screenshot (14)](https://github.com/user-attachments/assets/5e5eca2c-e4bb-48bc-a9e5-ab7ba3cf318a)
+
 
 
 
