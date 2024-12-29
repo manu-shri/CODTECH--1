@@ -2,7 +2,7 @@ Name: MANUSHRI.K
 Company: CODTECH IT SOLUTIONS
 ID: CTO8FQQ
 Domain: c++ programming
-Duration:
+Duration: December to January 2025
 Mentor: NEELA SANTHOSH KUMAR
 
 OVERVIEW OF THE PROJECT :
